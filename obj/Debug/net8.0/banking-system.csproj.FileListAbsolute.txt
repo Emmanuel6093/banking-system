@@ -28,3 +28,4 @@
 /Users/emmanue/projects/banking-system/obj/Debug/net8.0/banking-system.pdb
 /Users/emmanue/projects/banking-system/obj/Debug/net8.0/banking-system.genruntimeconfig.cache
 /Users/emmanue/projects/banking-system/obj/Debug/net8.0/ref/banking-system.dll
+/Users/emmanue/projects/banking-system/obj/Debug/net8.0/banking-system.sourcelink.json
